@@ -1,0 +1,17 @@
+1,Makar Sankranti,2023-01-14,India
+2,Pongal,2023-01-14,India
+3,Vasant Panchami,2023-01-26,India
+4,Republic Day,2023-01-26,India
+5,Maha Shivaratri,2023-02-18,India
+6,Holi,2023-03-08,India
+7,Ram Navmi,2023-03-30,India
+8,Eid Al Fitr,2023-04-22,India
+9,Janmashtmi,2023-08-06,India
+10,Independance Day,2023-08-15,India
+11,Raksha Bandhan,2023-08-30,India
+12,Ganesh Chaturthi,2023-09-19,India
+13,Navratri,2023-10-15,India
+14,Dussehra,2023-10-24,India
+15,Diwali,2023-11-12,India
+16,Christmas,2023-12-25,India
+17,New Year,2024-01-01,India
