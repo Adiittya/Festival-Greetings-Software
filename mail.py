@@ -6,8 +6,8 @@ import database as db
 import datetime
 import notification
 
-pas='hiulibxnuuduakzp'
-sender="adityahakani11@gmail.com"
+pas='your password' #create App password from your google account 
+sender="your email id" #
 #---------------------------------------------------------------mail function----------------------------------------------------------------
 
 def send_email(subject, locality, id , user_name, festival):
