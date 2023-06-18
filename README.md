@@ -120,13 +120,11 @@ You can watch here how to do it
 https://youtu.be/hXiPshHn9Pw
 
 
+## Feedback
+
+If you have any feedback or quries, please reach out to me at adityahakani29@gmail.com
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Feedback
-
-If you have any feedback or quries, please reach out to me at adityahakani29@gmail.com
 
