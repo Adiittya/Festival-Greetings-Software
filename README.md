@@ -64,7 +64,7 @@ at line 674
 to 
 
 ```bash
-  Log=Loginapp
+  Log=Loginapp()
 
 ```
 
